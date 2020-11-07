@@ -1,2 +1,2 @@
-# General-FG-model
-The vibration wave-function dynamics in diabatic representation 
+# Quantum Optics with Qutip
+by Siwei
